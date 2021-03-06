@@ -10,7 +10,8 @@
   "author": "Nick Podniestrzanski",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {},
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Nickpodski/NickP_Note_Taker/issues"
   },
-  "homepage": "https://github.com/Nickpodski/NickP_Note_Taker#readme"
+  "homepage": "https://github.com/Nickpodski/NickP_Note_Taker#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
