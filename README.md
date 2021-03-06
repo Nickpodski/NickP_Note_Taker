@@ -10,6 +10,7 @@ This a simple website that will allow user to take notes and save them, and dele
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Questions](#questions)
+  * [Links](#links)
 
 ## Usage
 
@@ -25,10 +26,6 @@ This a simple website that will allow user to take notes and save them, and dele
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
-## Tests
-
-  None
-
 ## Questions
 
   How to reach me?
@@ -38,5 +35,7 @@ This a simple website that will allow user to take notes and save them, and dele
 ## Links 
 
 https://evening-reaches-59327.herokuapp.com/ - Live Url
+
 https://evening-reaches-59327.herokuapp.com/notes - Notes Page
+
 https://github.com/Nickpodski/NickP_Note_Taker - Github Repo!
