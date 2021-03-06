@@ -1,0 +1,24 @@
+{
+  "name": "nickp_note_taker",
+  "version": "1.0.0",
+  "description": "A simple program that allows users to write down notes and store them in a json database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nick Podniestrzanski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickpodski/NickP_Note_Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nickpodski/NickP_Note_Taker/issues"
+  },
+  "homepage": "https://github.com/Nickpodski/NickP_Note_Taker#readme"
+}
